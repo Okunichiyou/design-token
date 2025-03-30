@@ -1,0 +1,202 @@
+{
+  "font-weight": {
+    "normal": {
+      "attributes": {
+        "type": "font-weight"
+      },
+      "value": "Regular"
+    },
+    "bold": {
+      "attributes": {
+        "type": "font-weight"
+      },
+      "value": "Bold"
+    }
+  },
+  "font-size": {
+    "10": {
+      "attributes": {
+        "type": "font-size",
+        "category": "size"
+      },
+      "value": 12
+    },
+    "20": {
+      "attributes": {
+        "type": "font-size",
+        "category": "size"
+      },
+      "value": 14
+    },
+    "30": {
+      "attributes": {
+        "type": "font-size",
+        "category": "size"
+      },
+      "value": 16
+    },
+    "40": {
+      "attributes": {
+        "type": "font-size",
+        "category": "size"
+      },
+      "value": 20
+    },
+    "50": {
+      "attributes": {
+        "type": "font-size",
+        "category": "size"
+      },
+      "value": 24
+    },
+    "60": {
+      "attributes": {
+        "type": "font-size",
+        "category": "size"
+      },
+      "value": 28
+    },
+    "70": {
+      "attributes": {
+        "type": "font-size",
+        "category": "size"
+      },
+      "value": 34
+    },
+    "80": {
+      "attributes": {
+        "type": "font-size",
+        "category": "size"
+      },
+      "value": 40
+    },
+    "90": {
+      "attributes": {
+        "type": "font-size",
+        "category": "size"
+      },
+      "value": 48
+    }
+  },
+  "line-height": {
+    "10": {
+      "attributes": {
+        "type": "line-height",
+        "category": "size"
+      },
+      "value": 1.67
+    },
+    "20": {
+      "attributes": {
+        "type": "line-height",
+        "category": "size"
+      },
+      "value": 1.71
+    },
+    "30": {
+      "attributes": {
+        "type": "line-height",
+        "category": "size"
+      },
+      "value": 1.75
+    },
+    "40": {
+      "attributes": {
+        "type": "line-height",
+        "category": "size"
+      },
+      "value": 1.6
+    },
+    "50": {
+      "attributes": {
+        "type": "line-height",
+        "category": "size"
+      },
+      "value": 1.67
+    },
+    "60": {
+      "attributes": {
+        "type": "line-height",
+        "category": "size"
+      },
+      "value": 1.57
+    },
+    "70": {
+      "attributes": {
+        "type": "line-height",
+        "category": "size"
+      },
+      "value": 1.53
+    },
+    "80": {
+      "attributes": {
+        "type": "line-height",
+        "category": "size"
+      },
+      "value": 1.5
+    },
+    "90": {
+      "attributes": {
+        "type": "line-height",
+        "category": "size"
+      },
+      "value": 1.5
+    }
+  },
+  "letter-spacing": {
+    "10": {
+      "attributes": {
+        "type": "letter-spacing"
+      },
+      "value": 0.04
+    },
+    "20": {
+      "attributes": {
+        "type": "letter-spacing"
+      },
+      "value": 0.03
+    },
+    "30": {
+      "attributes": {
+        "type": "letter-spacing"
+      },
+      "value": 0.03
+    },
+    "40": {
+      "attributes": {
+        "type": "letter-spacing"
+      },
+      "value": 0.03
+    },
+    "50": {
+      "attributes": {
+        "type": "letter-spacing"
+      },
+      "value": 0.03
+    },
+    "60": {
+      "attributes": {
+        "type": "letter-spacing"
+      },
+      "value": 0.02
+    },
+    "70": {
+      "attributes": {
+        "type": "letter-spacing"
+      },
+      "value": 0.02
+    },
+    "80": {
+      "attributes": {
+        "type": "letter-spacing"
+      },
+      "value": 0.02
+    },
+    "90": {
+      "attributes": {
+        "type": "letter-spacing"
+      },
+      "value": 0.01
+    }
+  }
+}
